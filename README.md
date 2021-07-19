@@ -1,0 +1,1 @@
+This solution introduces task tracker WEB Api. With it you can manage tasks in different projects. You can create, modify, delete projects and tasks.
